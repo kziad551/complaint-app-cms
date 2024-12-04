@@ -1,0 +1,7 @@
+html {
+  direction: rtl !important;
+  text-align: right !important;
+}
+.directus-container {
+  direction: rtl !important;
+}
